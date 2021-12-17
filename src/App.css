@@ -1,0 +1,48 @@
+#table-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+th {
+  padding: 10px;
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+input {
+  width: 35px;
+  text-align: center;
+}
+
+#button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+}
+
+button {
+  background-color: white;
+  border: solid 1px black;
+  color: black;
+  padding: 7px 16px;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #ececec;
+  border: solid 1px black;
+  color: black;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+}
